@@ -25,6 +25,7 @@ In this noteook, I analyse the Stack Overflow Data - 2017 Survey dataset. The da
 
 # Results
 The main findings of the code can be found at the post available here.
+My blog post: https://medium.com/@masahark6/d4569781348f
     
 # Acknowledgements
     1. Udacity DataScientist Nanodegree Program
