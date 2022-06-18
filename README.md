@@ -20,6 +20,8 @@ I follow the CRISP-DM(Cross-Industry Standard Process for Data Mining) methodolo
     5. Evaluation
 ## Question
 ### 1.Who get high salaries?
+### 2.Why do they get high salaries?
+### 3.How do they get high salaries?
     
 # File Description
 There are a notebook available here to showcase work related to the above questions.
