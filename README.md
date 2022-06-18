@@ -18,6 +18,8 @@ I follow the CRISP-DM(Cross-Industry Standard Process for Data Mining) methodolo
     3. Prepare Data
     4. Data Modeling
     5. Evaluation
+## Question
+### 1.Who get high salaries?
     
 # File Description
 There are a notebook available here to showcase work related to the above questions.
